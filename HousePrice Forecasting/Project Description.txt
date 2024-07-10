@@ -1,11 +1,11 @@
-##Importance
+# Importance
 Pricing houses has always posed significant challenges due to the vast array of factors that can influence property values. The goal of this project is to predict 
 housing prices accurately, thereby assisting homebuyers, real estate investors, and industry professionals in making informed decisions. By leveraging advanced 
 machine learning techniques, this study not only aims to provide reliable price forecasts but also seeks to uncover deeper insights into the various determinants 
 of housing prices. This initiative underscores the importance of understanding market dynamics and the potential of data-driven approaches to enhance transparency 
 and efficiency in the real estate market.
 
-
+# Big Picture
 By looking at the dataset, the first impression is that there are a bunch of features that human mind is not able to analyze them, and this is exactly where we 
 need to machine learning knowledge to be able to extract insights from a wide range of attributes and a huge amount of data. The objective of this dataset is 
 clear, we must predict the price of houses based on the past data that is gathered from the previous sale records.
